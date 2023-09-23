@@ -1,7 +1,8 @@
-## Olá, sou Felippe Silva!
+## 👋 Olá, sou Felippe Silva!
 
-- 🏫 Hoje sou estudante da UFRN de caico cursando BSI(Bacharelado de Sistemas de Informação).
+- 🏫 Atualmente, sou estudante de Bacharelado em Sistemas de Informação (BSI) na Universidade Federal do Rio Grande do Norte (UFRN), campus Caicó.
 - 🗂️ Atualmente estudando Js e React.
+- 🤝 Estou sempre aberto a oportunidades de colaboração e projetos desafiadores.
 - 📚 Tenho conhecimento basico em programação mais sempre buscando melhorar.
 - 📈 Almejo futuramente se torna Dev FrontEnd.
 
