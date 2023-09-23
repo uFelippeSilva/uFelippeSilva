@@ -11,6 +11,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
+    <igm align="center" height="30" width="40" alt="py-icon" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
